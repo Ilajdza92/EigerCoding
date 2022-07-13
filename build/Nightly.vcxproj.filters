@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CppProjects\EigarCoding\build\CMakeFiles\7c251405657246d13c57f832449a684a\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CppProjects\EigarCoding\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\CppProjects\EigarCoding\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2153A3A4-DEAD-35A9-B3CC-882FF083FB06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

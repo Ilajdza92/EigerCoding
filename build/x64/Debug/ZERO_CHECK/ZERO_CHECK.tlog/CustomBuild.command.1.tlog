@@ -1,0 +1,10 @@
+^D:\CPPPROJECTS\EIGARCODING\BUILD\CMAKEFILES\7C251405657246D13C57F832449A684A\GENERATE.STAMP.RULE
+setlocal
+D:\cmake-3.19.0-rc2-win64-x64\bin\cmake.exe -SD:/CppProjects/EigarCoding -BD:/CppProjects/EigarCoding/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/CppProjects/EigarCoding/build/EigarCoding.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
